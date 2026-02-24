@@ -168,16 +168,16 @@ https://thvip.site/360/237/index.m3u8
 
 #--*.*--QUỐC TẾ--*.*--#
 #EXTINF:0 group-title="PHIM" tvg-logo="https://i.ibb.co/njX4CRM/hbo.png", HBO
-
+http://hoatv001.ddns.net/iptv/admin.php?stream=7d726369f553314d42635f3e9bd9f9b5&token=f1fb22aca9a86f8cd80bad1504beb103
 #EXTINF:-1 tvg-id="cine360" group-title="PHIM" tvg-logo="", Cinemax
-
+http://hoatv001.ddns.net/iptv/admin.php?stream=3b34f6bf7b60311f7ab83516318fd86d&token=f1fb22aca9a86f8cd80bad1504beb103
 #EXTINF:-1 tvg-id="tvbvietnam" group-title="PHIM" tvg-logo="", TVB VIỆT NAM
-https://bcovlive-a.akamaihd.net/07d9c30456d94f3dbbcd39af064fdefa/us-west-2/6314468039001/0914b33308e3498da3b00fe2c050764e/playlist_ssaiM.m3u8
+https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist1080p.m3u8
 
 #EXTINF:0 tvg-id="" group-title="PHIM" tvg-logo="https://i.ibb.co/zHS0N8N/Dream-Works.png",DreamWorks
 
 #EXTINF:0 tvg-id="AXN" group-title="PHIM" tvg-logo="https://i.ibb.co/vHCtNmb/AXN.png" ,AXN HD
-
+http://hoatv001.ddns.net/iptv/admin.php?stream=7764016693ae03a79a2fa2e5290e4eaf&token=f1fb22aca9a86f8cd80bad1504beb103
 #EXTINF:0 tvg-id="warnertvhd" group-title="PHIM" tvg-logo="https://i.ibb.co/88LPqCy/WB.png",Warner TV
 
 #EXTINF:0 group-title="PHIM" tvg-logo="https://i.ibb.co/QYVd38q/kix.png", KIX HD
@@ -193,9 +193,9 @@ https://api.wintv.me/360/9856/index.m3u8
 #EXTINF:0 tvg-id="animaxhd" group-title="PHIM" tvg-logo="https://i.ibb.co/MCD31Zy/Animax.png",Animax
 
 #EXTINF:0 tvg-id="animalhd" group-title="KHOA HỌC VĂN HÓA" tvg-logo="https://i.ibb.co/gjfHJCH/Animal-Planet.png",Animal Planet
-
+http://hoatv001.ddns.net/iptv/admin.php?stream=53790956d5028a4edb3092ed5fea681d&token=f1fb22aca9a86f8cd80bad1504beb103
 #EXTINF:-1 tvg-id="cinemaworldhd" group-title="PHIM" tvg-logo="https://i.ibb.co/f90Rs0F/CMW.png", Cinema World
-
+http://hoatv001.ddns.net/iptv/admin.php?stream=9b8b8c30b4fc52ae677131e14b4f9c1a&token=f1fb22aca9a86f8cd80bad1504beb103
 #EXTINF:-1 tvg-id="davinci" tvg-logo="https://i.ibb.co/V9zPbXz/Da-Vinci.png" tvg-name="Da Vinci (HD)"  group-title="QUỐC TẾ;KHOA HỌC VĂN HÓA",Da Vinci HD
 
 #EXTINF:-1 tvg-id="afnhd" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/99/Asian_Food_Network_logo_b%E1%BA%A3n_3.png/revision/latest/scale-to-width-down/200?cb=20250327082030&path-prefix=vi" group-title="QUỐC TẾ;KHOA HỌC VĂN HÓA",Asian Food Network
@@ -306,7 +306,7 @@ https://ec03-pop2-hkh.tv360.vn:443/bpk-token/yjsrcsv5vi6euvvfaps4gzirjlbgkekk/bp
 #EXTINF:-1 tvg-id="vtvcab9hd" group-title="VTVCAB" tvg-logo="", ON Kids
 https://ec04-pop2-hkh.tv360.vn:443/bpk-token/hg4haykgo5owcjsymlhdrodqme43q4db/bpk-tv/234/output/index.m3u8?bkm-query&auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.ewogICJleHAiOjE3NTYxNDYxNzcsCiAgImlzcyI6ImJrbSIsCiAgInZlciI6IjEuMCIsCiAgImlhdCI6MTc1NjEyNDQ1OCwKICAic3IiOnsKICAgICAidmVyIjoiMi4wIiwKICAgICAic25hIjoiMjM0X0hMUyIsCiAgICAgInBuYSI6IlZpZXR0ZWwiLAogICAgICJybmEiOiIiLAogICAgICJwbiI6IlBPUC1ETi1QT1AyIiwKICAgICAiZW4iOiJFREdFLUROLVBPUDIiLAogICAgICJjYyI6IlZOIiwKICAgICAicmMiOiJETiIsCiAgICAgImFjbiI6IkNPUkUtRE4tUE9QMiIsCiAgICAgImlzcCI6IlNhaUdvbiBUb3VyaXN0IGNhYmxlIFRlbGV2aXRpb24gQ29tcGFueSIsCiAgICAgImFzbiI6IjQ1NTQzIiwKICAgICAidnMiOiJCS1M0MDAtUE9QMi0wNF8xNzIuMjQuMTcuMzk6MjAwMDAiLAogICAgICJudCI6Ik9UVCIsCiAgICAgInR0cCI6MCwKICAgICAicGxpZCI6IiIsCiAgICAgInB1aWQiOiIiLAogICAgICJ0ZWlkIjoiIgogIH0sCiAgIm90Ijp7CiAgICAgInRzIjoxNzU2MTI0NDU4LAogICAgICJ1cmwiOiIvYnBrLXR2LzIzNC9vdXRwdXQvaW5kZXgubTN1OD9taW5yYXRlPTAmbWF4cmF0ZT01MDAwMDAwIiwKICAgICAidG9rIjoiaGc0aGF5a2dvNW93Y2pzeW1saGRyb2RxbWU0M3E0ZGIiLAogICAgICJleHQiOiIiLAogICAgICJjaXAiOiIxMTIuMTk3LjIwMS4xODEiLAogICAgICJjaGsiOiBmYWxzZSwKICAgICAic3R0IjoiTk8iLAogICAgICJkc2NwIjowLAogICAgICJzdiI6ewogICAgICAgICJpZCI6IjIzNF9ITFMiLAogICAgICAgICJ0eXAiOiJMSVZFIgogICAgIH0sCiAgICAgInRvIjp7CiAgICAgICAgCiAgICAgICAgIAogICAgICAgICJzdSI6MCwKICAgICAgICAicmMiOjE1MAogICAgIH0sCiAgICAgImxheSI6IHsKICAgICAgImxzdCI6W10sCiAgICAgICJtYXgiOjUwMDAwMDAsCiAgICAgICJtaW4iOjAKICAgICB9LAogICAgICJyc2giOjAsCiAgICAgInJzaHAiOjEwMCwKICAgICAib2JmIjpmYWxzZSwKICAgICAidGFncyI6e30KICB9Cn0.YVok1cug67e1x6xrQFhJcq3i8Lz2SVgdbqpfnpdcIiE&fake=1756124458553
 #EXTINF:-1 group-title="THỂ THAO" tvg-logo="https://j03qukjhr2obj.vcdn.cloud/image-upload/a03f91ff-73ab-49ba-8882-580222d322b2.jpg", ON Golf
-https://tth.vn/vtvcab23
+http://hoatv001.ddns.net/iptv/admin.php?stream=ac94dc660c6df6591b9763fc7a25bd43&token=f1fb22aca9a86f8cd80bad1504beb103
 
 
 
