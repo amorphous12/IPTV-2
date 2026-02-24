@@ -144,26 +144,26 @@ https://liveh12.seenow.vn/hls/SCTVPHIM/03.m3u8?fake=1756120947138
 
 
 #--*.*--INTHEBOX--*.*--#
-#EXTINF:0 tvg-id="boxmovie1" group-title="THỂ THAO" tvg-logo="https://i.ibb.co/mqY1Sxs/box-movie-1.png",Bóng Đá 1
-https://tft90gr4nhct1gwzdrcttfa4d1mmcpf5gkcjo.100ycdn.com/live10.watchsoccerlivenews.net/live/meobeo_key/playlist.m3u8?wsSession=99c769bff601f55f2e3cd3c7-177064134509455&wsIPSercert=97e4ef582b73b095c9f1da220e6ecf35&wsiphost=local&wsBindIP=1
+#EXTINF:0 tvg-id="boxmovie1" group-title="PHIM" tvg-logo="https://i.ibb.co/mqY1Sxs/box-movie-1.png",Box Movie
+https://livevlisctcdnw.seenow.vn/mean/BM1/manifest.mpd
 #EXTINF:0 tvg-id="hollywoodclassics" group-title="PHIM" tvg-logo="https://i.ibb.co/j5HcXvW/holywood.png",Hollywood Classics
-https://thvip.site/360/160/index.m3u8
+http://hoatv001.ddns.net/iptv/admin.php?stream=b26e1c8a00473057e064102aa5666f2c&token=f1fb22aca9a86f8cd80bad1504beb103
 #EXTINF:0 tvg-id="drfithd" group-title="KHOA HỌC VĂN HÓA" tvg-logo="https://i.ibb.co/chBqNVp/dr-fit.png",DR.Fit
-https://code.vthanhtivi.pw/getlink/tv360/162/2.m3u8
+
 #EXTINF:0 tvg-id="woman" group-title="QUỐC TẾ" tvg-logo="https://i.ibb.co/k17TsNx/woman.png",Woman
-https://vtsstr7.tv24.vn/live/smil:Woman.smil/chunklist.m3u8
+http://hoatv001.ddns.net/iptv/admin.php?stream=9cefe8b7c24b4cb59ae7477233d7f573&token=f1fb22aca9a86f8cd80bad1504beb103
 #EXTINF:0 tvg-id="planetearthhd" group-title="KHOA HỌC VĂN HÓA" tvg-logo="https://i.ibb.co/8XXnNs0/planet-earth.png",Planet Earth
-https://vtsstr7.tv24.vn/live/smil:Planet_Earth.smil/chunklist.m3u8
+
 #EXTINF:0 tvg-id="musicbox" group-title="NHẠC" tvg-logo="https://i.ibb.co/xYPTdNM/Music-Box.png",Music Box
-https://code.vthanhtivi.pw/getlink/mytv/69/hd.m3u8
+
 #EXTINF:0 tvg-id="happykids" group-title="PHIM" tvg-logo="https://i.ibb.co/4Y4yxZq/Happy-Kids.png",Happy Kids
 
 #EXTINF:-1 tvg-id="boxhits" group-title="PHIM" tvg-logo="https://i.ibb.co/hYF1RTW/Box-Hits.png", Box Hits
-https://thvip.site/360/239/index.m3u8
+http://hoatv001.ddns.net/iptv/admin.php?stream=5c4c96b49907a93c19985a5d543005e8&token=f1fb22aca9a86f8cd80bad1504beb103
 #EXTINF:-1 tvg-id="inthebox" group-title="PHIM" tvg-logo="", In The Box
-https://thvip.site/360/235/index.m3u8
+https://livevlisctcdnw.seenow.vn/livesnv2/INTHEBOX/manifest.mpd
 #EXTINF:0 tvg-id="man" group-title="QUỐC TẾ" tvg-logo="",Man
-https://thvip.site/360/237/index.m3u8
+
 
 
 #--*.*--QUỐC TẾ--*.*--#
@@ -179,9 +179,9 @@ https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist10
 #EXTINF:0 tvg-id="AXN" group-title="PHIM" tvg-logo="https://i.ibb.co/vHCtNmb/AXN.png" ,AXN HD
 http://hoatv001.ddns.net/iptv/admin.php?stream=7764016693ae03a79a2fa2e5290e4eaf&token=f1fb22aca9a86f8cd80bad1504beb103
 #EXTINF:0 tvg-id="warnertvhd" group-title="PHIM" tvg-logo="https://i.ibb.co/88LPqCy/WB.png",Warner TV
-
+http://hoatv001.ddns.net/iptv/admin.php?stream=79028dd9abab1e569b0b9ffdf2b1602d&token=f1fb22aca9a86f8cd80bad1504beb103
 #EXTINF:0 group-title="PHIM" tvg-logo="https://i.ibb.co/QYVd38q/kix.png", KIX HD
-
+https://live.fptplay53.net/fnxhd2/kixhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="" group-title="PHIM" tvg-logo="https://i.ibb.co/tMk0mJx/Boomerang.png",Boomerang
 
 #EXTINF:-1 tvg-id="cartoonhd" group-title="PHIM" tvg-logo="https://i.ibb.co/pJcF0Ym/Cartoon-Network.png",Cartoon Network HD
@@ -211,9 +211,9 @@ https://live.fptplay53.net/fnxhd2/arirang_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="ngwhd" group-title="QUỐC TẾ;KHOA HỌC VĂN HÓA" tvg-logo="https://i.ibb.co/HgYTRT6/Nat-Geo-Wild.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/natgeowild_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Nat Geo Wild HD
 
 #EXTINF:0 tvg-id="discoveryhd" group-title="QUỐC TẾ;KHOA HỌC VĂN HÓA" tvg-logo="https://i.ibb.co/XZStWVN/Discovery.png" , Discovery Channel HD
-
+http://hoatv001.ddns.net/iptv/admin.php?stream=13846ecc028cd32709bfa3b448172574&token=f1fb22aca9a86f8cd80bad1504beb103
 #EXTINF:-1 tvg-id="discoveryasiahd" group-title="QUỐC TẾ;KHOA HỌC VĂN HÓA" tvg-logo="https://i.ibb.co/tB64XG7/Discovery-Asia-BEARTV.png", Discovery Asia HD
-
+http://hoatv001.ddns.net/iptv/admin.php?stream=d902885ea15e35f3cfb38c0dfbe6b631&token=f1fb22aca9a86f8cd80bad1504beb103
 #EXTINF:0 tvg-id="outdoorhd" group-title="QUỐC TẾ;KHOA HỌC VĂN HÓA" tvg-logo="https://i.ibb.co/x3hpmQ9/Outdoor-Channel.png" , Outdoor Channel
 
 #EXTINF:-1 tvg-id="" group-title="QUỐC TẾ" tvg-logo="https://i.ibb.co/R9P4G9X/TV5-Monde.png", TV5MONDE
