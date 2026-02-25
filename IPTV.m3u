@@ -1,10 +1,10 @@
-#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml" catchup="append" catchup-days="3" catchup-source="&offset=-${offset}&utcstart=${timestamp}" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=0
+#EXTM3U url-tvg="https://vnepg.site/epg.xml" catchup="append" catchup-days="3" catchup-source="&offset=-${offset}&utcstart=${timestamp}" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=0
 
 
 
 #--*.*--VTV--*.*--#
 #EXTINF:0 tvg-id="vtv1hd"group-title="VTV" tvg-logo="https://img.lichphatsong.xyz/logo/vtv1hd.jpg", VTV1 Thời Sự Chính Luận
-http://iptv.nhadai.org/stream/vtv1-hd
+https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist_b4200000.m3u8
 #EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://img.lichphatsong.xyz/logo/vtv2hd.jpg", VTV2 Khoa Học Công Nghệ
 https://live.fptplay53.net/fnxch2/vtv2hd_abr.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://img.lichphatsong.xyz/logo/vtv3hd.jpg", VTV3 Thể Thao Giải Trí
@@ -47,10 +47,6 @@ https://vc.101vn.com/htv/htvcmb.php?id=256
 https://vc.101vn.com/htv/htvcmb.php?id=2667
 #EXTINF:-1 tvg-id="htvkey" group-title="HTV" tvg-logo="", HTV Co.op Phim Truyện Văn Hóa
 https://vc.101vn.com/htv/htvcmb.php?id=31973
-
-
-
-
 #EXTINF:-1 tvg-id="htvcthuanviet" group-title="HTV" tvg-logo="https://i.ibb.co/1bhwRtD/HTVCTHUANVIET.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcthuanviet_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTVC Thuần Việt
 https://live.fptplay53.net/epzhd1/htvcthuanviethd_vhls.smil/chunklist.m3u8?fake=1756125804725
 #EXTINF:-1 tvg-id="htvcgiadinhhd" group-title="HTV" tvg-logo="https://i.ibb.co/267nJtf/HTVCGIADINH.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcgiadinh_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTVC Gia đình
@@ -200,21 +196,21 @@ http://hoatv001.ddns.net/iptv/admin.php?stream=9b8b8c30b4fc52ae677131e14b4f9c1a&
 
 #EXTINF:-1 tvg-id="afnhd" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/99/Asian_Food_Network_logo_b%E1%BA%A3n_3.png/revision/latest/scale-to-width-down/200?cb=20250327082030&path-prefix=vi" group-title="QUỐC TẾ;KHOA HỌC VĂN HÓA",Asian Food Network
 https://live.fptplay53.net/fnxhd2/afchd_vhls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="tlchd" group-title="QUỐC TẾ;KHOA HỌC VĂN HÓA" tvg-logo="https://i.ibb.co/5hZzB2C/TLC.png" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/travelliving_1500.stream/chunks_dvr_range-${start}-10800.m3u8, TLC
+#EXTINF:-1 tvg-id="tlchd" group-title="KHOA HỌC VĂN HÓA" tvg-logo="https://i.ibb.co/5hZzB2C/TLC.png" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/travelliving_1500.stream/chunks_dvr_range-${start}-10800.m3u8, TLC
 
 #EXTINF:0 tvg-id="blueantent" group-title="QUỐC TẾ" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/30/Arirang_TV_Korea.png/revision/latest/scale-to-width-down/200?cb=20230516102921&path-prefix=vi" ,Ariang
 https://live.fptplay53.net/fnxhd2/arirang_hls.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="blueantext" group-title="QUỐC TẾ" tvg-logo="https://i.ibb.co/1Qd6pxW/Rock-Extreme.png" ,Rock Extreme
 
-#EXTINF:-1 tvg-id="" group-title="QUỐC TẾ;KHOA HỌC VĂN HÓA" tvg-logo="https://i.ibb.co/j3wTynz/National-Geographic.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/natgeohd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", National Geographic HD
+#EXTINF:-1 tvg-id="" group-title="KHOA HỌC VĂN HÓA" tvg-logo="https://i.ibb.co/j3wTynz/National-Geographic.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/natgeohd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", National Geographic HD
 
-#EXTINF:-1 tvg-id="ngwhd" group-title="QUỐC TẾ;KHOA HỌC VĂN HÓA" tvg-logo="https://i.ibb.co/HgYTRT6/Nat-Geo-Wild.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/natgeowild_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Nat Geo Wild HD
+#EXTINF:-1 tvg-id="ngwhd" group-title="KHOA HỌC VĂN HÓA" tvg-logo="https://i.ibb.co/HgYTRT6/Nat-Geo-Wild.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/natgeowild_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Nat Geo Wild HD
 
-#EXTINF:0 tvg-id="discoveryhd" group-title="QUỐC TẾ;KHOA HỌC VĂN HÓA" tvg-logo="https://i.ibb.co/XZStWVN/Discovery.png" , Discovery Channel HD
+#EXTINF:0 tvg-id="discoveryhd" group-title="KHOA HỌC VĂN HÓA" tvg-logo="https://i.ibb.co/XZStWVN/Discovery.png" , Discovery Channel HD
 http://hoatv001.ddns.net/iptv/admin.php?stream=13846ecc028cd32709bfa3b448172574&token=f1fb22aca9a86f8cd80bad1504beb103
-#EXTINF:-1 tvg-id="discoveryasiahd" group-title="QUỐC TẾ;KHOA HỌC VĂN HÓA" tvg-logo="https://i.ibb.co/tB64XG7/Discovery-Asia-BEARTV.png", Discovery Asia HD
+#EXTINF:-1 tvg-id="discoveryasiahd" group-title="KHOA HỌC VĂN HÓA" tvg-logo="https://i.ibb.co/tB64XG7/Discovery-Asia-BEARTV.png", Discovery Asia HD
 http://hoatv001.ddns.net/iptv/admin.php?stream=d902885ea15e35f3cfb38c0dfbe6b631&token=f1fb22aca9a86f8cd80bad1504beb103
-#EXTINF:0 tvg-id="outdoorhd" group-title="QUỐC TẾ;KHOA HỌC VĂN HÓA" tvg-logo="https://i.ibb.co/x3hpmQ9/Outdoor-Channel.png" , Outdoor Channel
+#EXTINF:0 tvg-id="outdoorhd" group-title="KHOA HỌC VĂN HÓA" tvg-logo="https://i.ibb.co/x3hpmQ9/Outdoor-Channel.png" , Outdoor Channel
 
 #EXTINF:-1 tvg-id="" group-title="QUỐC TẾ" tvg-logo="https://i.ibb.co/R9P4G9X/TV5-Monde.png", TV5MONDE
 
@@ -225,14 +221,14 @@ http://hoatv001.ddns.net/iptv/admin.php?stream=d902885ea15e35f3cfb38c0dfbe6b631&
 #EXTINF:-1 tvg-id="abcaustralia" group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/ABC_Australia_logo.svg/1200px-ABC_Australia_logo.svg.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/australiaplus_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", ABC Australia
 
 #EXTINF:-1 tvg-id="mutv" group-title="THỂ THAO" tvg-logo="https://cdn6.aptoide.com/imgs/5/4/7/54740131b7dab27828b8cf06ccf128ed_icon.png", MUTV
-https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_0/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="bbclifestyle" group-title="QUỐC TẾ;KHOA HỌC VĂN HÓA" tvg-logo="https://i.ibb.co/sWgHzfW/BBC-Lifestyle.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/bbclifestyle_2000.stream/chunks_dvr_range-${start}-${offset}.m3u8", BBC Lifestyle
 
 #EXTINF:-1 tvg-id="" group-title="QUỐC TẾ" tvg-logo="https://i.ibb.co/VpnQj5h/Channel-News-Asia.png",Channel News Asia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 
 #EXTINF:0 tvg-id="" group-title="THỂ THAO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Realmadrid_Television_Logo.svg/440px-Realmadrid_Television_Logo.svg.png", Real Madrid TV
-https://amg01201-cinedigmenterta-realmadrid-cineverse-j6ye1.amagi.tv/playlist/amg01201-cinedigmenterta-realmadrid-cineverse/cb553d1f796c64879dd43d66d1ef41a6dc242ffc087a8d6933fb4b926bc10f41f9e5af86a540ff1902cb5d81385e7d564367c009a329588d9b6ad55777650705dad8ee2ebecc4072eb9c102f29b4641d57ee166ea8412e5e95a916018e38f55e0010e30627161185af06f0234dc48103957f378dadd964277c535c8f2002b7f902f6ef820c13892ef8ae194b923146e190569bd41ebad4d5589d5e8777f8158093f1de850dd0d4c437b406b066595d702eca842c97986fa6b0eb019f4d4e5224287ba4c4a5f74b2888464e2e9795a99e568fd84a1447fb0416a8099935e95812ddaa7bc0c54fe083bad1450348cc189d7555c2c18ef09c1132fd48faacee97132edf9e75098f6f468fcb5a68b084b270b2ad58f88d03cfc4480e31c1de6d94a2918be68fa043922df01395f2206f41790d0e8a5cedcf238b699554a1c00639070d65a39e47cb8fdd1e672c1fddc073d11a01ac9ba6d5cc477beb700b56ed57dc592e65d87b392fb263aacc7c24a20e3ea81971bb543c8b47bc9f29f6acd4ac4618bdccc84ffa20bee4539ca64cff3d680c4ce2ab7f1f68437fd9e2634d0378c544f6da85b4245e4ebfa1bf90aa3419093d055d058f908427d5deba6a7773ec562f7a616272bb01df73ca7a2c2d79984cf0ee65598a042821e3e70f55556293c2d3d6dfceab5853dca702cc3c777f9fdf381b9361eb/78/1280x720_3000140/index.m3u8
+
 #EXTINF:0 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/a8/HGTV_2010.svg/revision/latest?cb=20211127035204&path-prefix=vi" group-title="QUỐC TẾ", HGTV
 
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="NHẠC", Vevo
