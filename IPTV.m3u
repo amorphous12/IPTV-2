@@ -250,7 +250,7 @@ https://lightning-now70s-samsungnz.amagi.tv/playlist720p.m3u8
 
 
 #--*.*--VTVCAB--*.*--#
-#EXTINF:0 tvg-id="vtvcab1hd"group-title="VTVCAB" tvg-logo="https://i.ibb.co/KFctr0t/VIEGIAITRI.png", On Vie Giải Trí
+#EXTINF:0 tvg-id="vtvcab2hd"group-title="VTVCAB" tvg-logo="https://i.ibb.co/KFctr0t/VIEGIAITRI.png", On Việt Giải Trí
 https://freem3u.xyz/api/live/play.m3u8?vid=180
 #EXTINF:0 tvg-id="vtvcabhd"group-title="VTVCAB" tvg-logo="https://i.ibb.co/3W6Bdqy/onphimviet.jpg", ON Phim Việt
 https://freem3u.xyz/api/live/play.m3u8?vid=175
