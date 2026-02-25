@@ -508,7 +508,7 @@ http://live.adultiptv.net/asian.m3u8
 
 
 #--*.*--KÊNH RADIO--*.*--#
-#EXTINF:-1 tvg-id="VOV FM 99.9MHz" tvg-logo="https://marketingreview.vn/wp-content/uploads/2019/01/VOH-99.9-MHz.jpg" group-title="RADIO" , VOV FM 99.9MHz
+#EXTINF:-1 group-title="RADIO", VOV FM 99.9MHz
 http://125.212.213.71:1935/live/channel3/playlist.m3u8
 #EXTINF:-1 tvg-id="VOV FM 95.6MHz" tvg-logo="https://marketingreview.vn/wp-content/uploads/2019/01/VOH-95.6-Mhz.jpg" group-title="RADIO" , VOV FM 95.6MHz
 http://125.212.213.71:1935/live/channel1/playlist.m3u8
