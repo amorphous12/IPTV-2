@@ -126,11 +126,11 @@ http://hoatv001.ddns.net/iptv/admin.php?stream=c0bca6ea7b0af4ee5dfb94a8179109f9&
 #EXTINF:0 tvg-id="sctv18hd"group-title="SCTV" tvg-logo="" ,SCTV18 Thanh Thiếu Niên
 http://hoatv001.ddns.net/iptv/admin.php?stream=5cd67e47b8215d6ccba4ac6a652688bf&token=f1fb22aca9a86f8cd80bad1504beb103
 #EXTINF:0 tvg-id="sctv19hd"group-title="SCTV" tvg-logo="" ,SCTV19 Channel Teen
-https://s13.edge.cdn.sctvonline.vn/cdn-cgi/edge/v3/1756121737/R-tgxBlJmPzRw5cdIqkV8Xg62ZQ/e8.endpoint.cdn.sctvonline.vn/nginx.s9.edge.cdn.sctvonline.vn/cdn-secure/v1/sctvonline/2/QicAqW2n1zetIiQ_fvIuHw/1756227600/VBD1TLI/live/hls/sctv19/index.m3u8
+http://hoatv001.ddns.net/iptv/admin.php?stream=263b1b3ccfac0ede4de0a5445285018c&token=f1fb22aca9a86f8cd80bad1504beb103
 #EXTINF:0 tvg-id="sctv20hd"group-title="SCTV" tvg-logo="" ,SCTV20 Ca Nhạc
-https://s9.edge.cdn.sctvonline.vn/cdn-cgi/edge/v3/1756121795/ub486DUJxV_pgf4TbkpOHFkq6Io/e1.endpoint.cdn.sctvonline.vn/nginx.s2.edge.cdn.sctvonline.vn/cdn-secure/v1/sctvonline/2/KvDbZdY5NdEDHH3Xgr_9fQ/1756227600/VBD1TLI/live/channel/sctv20/index.m3u8
+http://hoatv001.ddns.net/iptv/admin.php?stream=e1a0f62f1d0381987328e0759ec98144&token=f1fb22aca9a86f8cd80bad1504beb103
 #EXTINF:0 tvg-id="sctv21hd"group-title="SCTV" tvg-logo="" ,SCTV21 Việt Nam Ký ỨC
-https://s13.edge.cdn.sctvonline.vn/cdn-cgi/edge/v3/1756121834/yUsaOzgpVVGdnkzR5vYEFEBRxAU/e1.endpoint.cdn.sctvonline.vn/nginx.s7.edge.cdn.sctvonline.vn/cdn-secure/v1/sctvonline/2/9Y6lsqvy8hs-0Ww_A3ANwA/1756227600/VBD1TLI/live/hls/sctv21/index.m3u8
+http://hoatv001.ddns.net/iptv/admin.php?stream=2169f7f5e8ea04541a94d12f959cb162&token=f1fb22aca9a86f8cd80bad1504beb103
 #EXTINF:-1 tvg-id="SCTV22hd" group-title="THỂ THAO" tvg-logo="https://i.ibb.co/PGSF422/sctv22-hd.png", SCTV22 SSPORT1
 http://hoatv001.ddns.net/iptv/admin.php?stream=1e2fcc2c97eefd239d37a7b93d800c3d&token=f1fb22aca9a86f8cd80bad1504beb103
 #EXTINF:-1 tvg-id="SCTV Phim Tổng Hợp" group-title="SCTV" tvg-logo="", SCTV Phim Tổng Hợp
