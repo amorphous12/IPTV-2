@@ -80,9 +80,8 @@ https://live.fptplay53.net/fnxhd2/quocphongvnhd_vhls.smil/chunklist_b5000000.m3u
 #EXTINF:0 tvg-id="vovtvhd"group-title="THỜI SỰ" tvg-logo="https://i.ibb.co/B4xVCP0/VOV.png",VOV TV HD
 
 #EXTINF:-1 tvg-id="nhandan"group-title="THỜI SỰ" tvg-logo="https://i.ibb.co/JqJd7PY/NHANDAN.png",NHÂN DÂN HD
-https://liveh34.vtvcab.vn/hls/ONNHANDAN_CL/01.m3u8
+
 #EXTINF:-1 tvg-id="ttxvnhd" group-title="THỜI SỰ" tvg-logo="https://i.ibb.co/0Yj99ss/VNEWS.png" ,VNews
-https://liveh34.vtvcab.vn/hls/TTXVN_VNEWS/index.m3u8
 
 
 
@@ -312,7 +311,7 @@ https://live.fptplay53.net/epzhd2/vinhlong3_vhls.smil/chunklist_b5000000.m3u8?fa
 #EXTINF:-1 tvg-id="THVL4 HD" tvg-name="THVL4 HD" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/PghhYWR/THVL4-HD.png" tvg-chno="44" catchup="append" catchup-days="0.3" catchup-source="https://live1.thvli.vn/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmkiOiIvdGh2bDQtNzIwcCIsImV4cCI6MTYzMjA1ODQ3Mn0.nZmTLeG-UUwn6Am5noSxRzcQCFJOwq2g8Ei3u47uqb4-/thvl4-720p/chunks_dvr_range-${start}-293.m3u8",Vĩnh Long 4 HD
 https://live.fptplay53.net/epzhd2/vinhlong4hd_vhls.smil/chunklist_b5000000.m3u8?fake=1756126394111
 #EXTINF:-1 tvg-id="binhduong1"group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b6/BTV1_HD_26.05.2025.png/revision/latest/scale-to-width-down/200?cb=20250526050154&path-prefix=vi",BTV1 HD
-https://live.fptplay53.net/epzhd2/btv1_hls.smil/chunklist_b2500000.m3u8
+
 #EXTINF:-1 tvg-id="binhduong2" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/60/BTV2_HD_logo_10.08.2025_c%C3%B3_website.png/revision/latest/scale-to-width-down/200?cb=20250812121958&path-prefix=vi",BTV2 HD
 https://live.fptplay53.net/epzhd2/btv2_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="btv3hd" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/ftgpmMb/BTV3.png",BTV 3
