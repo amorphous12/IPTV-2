@@ -343,17 +343,66 @@ https://liveh34.vtvprime.vn/hls/HANOI2TV/03.m3u8
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/hitv/KenhCoBan.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG", YouTV
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/youtv/KenhCoBan.m3u8
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG", BHTTV Hà Tĩnh
+https://live.fptplay53.net/fnxsd1/hatinh_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG", THP Hải Phòng
+https://liveh12.vtvprime.vn/hls/HAIPHONG/03.m3u8
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG", THP Hải Phòng 3
+https://live.mediatech.vn/live/28548ca35823d41426d8b3da7ed82bdab13/chunklist.m3u8
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG", HUETV Huế
+https://liveh12.vtvprime.vn/hls/HUE/03.m3u8
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG", HY Hưng Yên
+https://live.fptplay53.net/fnxsd1/hungyen_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG", KTV Khánh Hòa
+https://live.fptplay53.net/epzsd1/khanhhoa_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG", KTV1 Khánh Hòa 1
+https://live.fptplay53.net/epzsd1/khanhhoa01_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG", LTV Lai Châu
+https://live.fptplay53.net/fnxsd1/laichau_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG", LSTV Lạng Sơn
+https://stream.langsontv.vn/live/285c78da0c246524c90917842f8de03bd21/chunklist.m3u8
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG", THLC Lào Cai
+http://hoatv001.ddns.net/iptv/admin.php?stream=f458739557328607ca79528be710c537&token=f1fb22aca9a86f8cd80bad1504beb103
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG", LTV1 Lâm Đồng 1
+https://live.fptplay53.net/epzsd1/lamdong_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG", LTV2 Lâm Đồng 2
+https://live.fptplay53.net/epzsd1/lamdong02_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG", NTV Nghệ An
+https://live.fptplay53.net/fnxsd1/nghean_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG", NBTV Ninh Bình
+https://live.fptplay53.net/fnxsd1/ninhbinh_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG", PTV Phú Thọ
+https://live.fptplay53.net/fnxsd1/phutho_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG", QNGTV1 Quảng Ngãi 1
+https://live.fptplay53.net/epzsd1/quangngai_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG", QNGTV2 Quãng Ngãi 2
+https://ace.hoiquan.click/module/IPTV/?id=QNgTV2&accKenh=vuminhthanh1
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG", QTV1 Quảng Ninh 1
+http://hoatv001.ddns.net/iptv/admin.php?stream=ac5fb0810388586d89844751830e2704&token=f1fb22aca9a86f8cd80bad1504beb103
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG", QTV3 Quảng Ninh 3
+https://live.fptplay53.net/fnxsd1/quangninh3_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG", QTTV Quảng Trị
+https://live.fptplay53.net/epzsd1/quangtri_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG", STV Sơn La
+https://live.fptplay53.net/fnxsd1/sonla_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG", TN Tây Ninh TV
+https://live.fptplay53.net/epzsd1/tayninh01_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG", TTV Thanh Hóa
+https://live.fptplay53.net/fnxsd1/thanhhoa_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG", TN Thái Nguyên
+https://live.fptplay53.net/fnxsd1/thainguyen_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG", TTV Tuyên Quang
+https://live.fptplay53.net/fnxsd1/tuyenquang_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG", THVL1 Vĩnh Long 1
+https://live.fptplay53.net/epzch2/vinhlong1_abr.smil/chunklist_b4200000.m3u8
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG", THVL2 Vĩnh Long 2
+https://live.fptplay53.net/epzhd2/vinhlong2_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG", THVL3 Vĩnh Long 3
+https://live.fptplay53.net/epzhd2/vinhlong3_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG", THVL4 Vĩnh Long 4
+https://live.fptplay53.net/epzhd2/vinhlong4hd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG", THVL5 Vĩnh Long 5
+https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist_b5000000.m3u8
 
 
 
