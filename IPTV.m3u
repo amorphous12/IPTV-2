@@ -95,7 +95,7 @@ https://liveh34.vtvcab.vn/hls/TTXVN_VNEWS/index.m3u8
 #--*.*--SCTV--*.*--#
 #EXTINF:0 tvg-id="sctv1hd"group-title="SCTV" tvg-logo="" ,SCTV1 Hài
 http://hoatv001.ddns.net/iptv/admin.php?stream=9b97099badc75fa541d6da5b6ba27343&token=f1fb22aca9a86f8cd80bad1504beb103
-#EXTINF:0 tvg-id="sctv2hd"group-title="SCTV" tvg-logo="https://i.ibb.co/hZmsGHL/SCTV2.png" ,SCTV2 Giải Trí
+#EXTINF:0 tvg-id="sctv2hd"group-title="SCTV" tvg-logo="https://i.ibb.co/hZmsGHL/SCTV2.png" ,SCTV2 Giải Trí Tổng Hợp
 http://hoatv001.ddns.net/iptv/admin.php?stream=28d50ddc15d9d53870eddedd41a2d5fe&token=f1fb22aca9a86f8cd80bad1504beb103
 #EXTINF:0 tvg-id="sctv3hd"group-title="SCTV" tvg-logo="" ,SCTV3 SEE TV Thiếu Nhi
 http://hoatv001.ddns.net/iptv/admin.php?stream=c69947207f651407a3d8fc6b559962dc&token=f1fb22aca9a86f8cd80bad1504beb103
