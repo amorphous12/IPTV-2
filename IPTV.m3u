@@ -507,12 +507,12 @@ http://live.adultiptv.net/asian.m3u8
 
 
 
-#--*.*--KÊNH RADIO--*.*--#
-#EXTINF:-1 group-title="RADIO", VOV FM 99.9MHz
+#--*.*--KÊNH FM--*.*--#
+#EXTINF:-1 group-title="FM", VOV FM 99.9MHz
 http://125.212.213.71:1935/live/channel3/playlist.m3u8
-#EXTINF:-1 tvg-id="VOV FM 95.6MHz" tvg-logo="https://marketingreview.vn/wp-content/uploads/2019/01/VOH-95.6-Mhz.jpg" group-title="RADIO" , VOV FM 95.6MHz
+#EXTINF:-1 tvg-id="VOV FM 95.6MHz" tvg-logo="https://marketingreview.vn/wp-content/uploads/2019/01/VOH-95.6-Mhz.jpg" group-title="FM" , VOV FM 95.6MHz
 http://125.212.213.71:1935/live/channel1/playlist.m3u8
-#EXTINF:-1 tvg-id="VOH FM 87.7MHz" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/xnbldewtc2zh.jpg" group-title="RADIO" , VOH FM 87.7MHz
+#EXTINF:-1 tvg-id="VOH FM 87.7MHz" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/xnbldewtc2zh.jpg" group-title="FM" , VOH FM 87.7MHz
 http://125.212.213.71:1935/live/channel5/playlist.m3u8
 #EXTINF:-1 tvg-id="ĐÀ NẴNG" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/cd9vpt6yyW.png" group-title="RADIO" , ĐÀ NẴNG
 http://drtdnglive.e49a7c38.cdnviet.com/liveradio/playlist.m3u8
