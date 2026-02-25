@@ -146,7 +146,7 @@ https://livevlisctcdnw.seenow.vn/mean/BM1/manifest.mpd
 http://hoatv001.ddns.net/iptv/admin.php?stream=b26e1c8a00473057e064102aa5666f2c&token=f1fb22aca9a86f8cd80bad1504beb103
 #EXTINF:0 tvg-id="drfithd" group-title="KHOA HỌC VĂN HÓA" tvg-logo="https://i.ibb.co/chBqNVp/dr-fit.png",DR.Fit
 
-#EXTINF:0 tvg-id="woman" group-title="QUỐC TẾ" tvg-logo="https://i.ibb.co/k17TsNx/woman.png",Woman
+#EXTINF:0 tvg-id="woman" group-title="KHOA HỌC VĂN HÓA" tvg-logo="https://i.ibb.co/k17TsNx/woman.png",Woman
 http://hoatv001.ddns.net/iptv/admin.php?stream=9cefe8b7c24b4cb59ae7477233d7f573&token=f1fb22aca9a86f8cd80bad1504beb103
 #EXTINF:0 tvg-id="planetearthhd" group-title="KHOA HỌC VĂN HÓA" tvg-logo="https://i.ibb.co/8XXnNs0/planet-earth.png",Planet Earth
 
