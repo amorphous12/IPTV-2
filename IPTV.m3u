@@ -94,37 +94,37 @@ https://liveh34.vtvcab.vn/hls/TTXVN_VNEWS/index.m3u8
 
 #--*.*--SCTV--*.*--#
 #EXTINF:0 tvg-id="sctv1hd"group-title="SCTV" tvg-logo="" ,SCTV1 Hài
-https://s4.edge.cdn.sctvonline.vn/cdn-cgi/edge/v3/1756120897/VoVVRzx6grXPDG3NslaIndG7LLw/e11.endpoint.cdn.sctvonline.vn/nginx.s5.edge.cdn.sctvonline.vn/cdn-secure/v1/sctvonline/1/ALIY9xLIGO2aBX9cQYObyw/1756227600/VBD1TLI/live/sctv1/master.m3u8
+http://hoatv001.ddns.net/iptv/admin.php?stream=9b97099badc75fa541d6da5b6ba27343&token=f1fb22aca9a86f8cd80bad1504beb103
 #EXTINF:0 tvg-id="sctv2hd"group-title="SCTV" tvg-logo="https://i.ibb.co/hZmsGHL/SCTV2.png" ,SCTV2 Giải Trí
-https://s13.edge.cdn.sctvonline.vn/cdn-cgi/edge/v3/1756122759/ovQIlv0zCpve5BqVGMN_vLrKqjQ/e11.endpoint.cdn.sctvonline.vn/nginx.s13.edge.cdn.sctvonline.vn/cdn-secure/v1/sctvonline/1/rRY56R0HqOKTWVl0huoaNQ/1756227600/VBD1TLI/live/sctv2/master.m3u8
+http://hoatv001.ddns.net/iptv/admin.php?stream=28d50ddc15d9d53870eddedd41a2d5fe&token=f1fb22aca9a86f8cd80bad1504beb103
 #EXTINF:0 tvg-id="sctv3hd"group-title="SCTV" tvg-logo="" ,SCTV3 SEE TV Thiếu Nhi
-https://s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v3/1756120817/noON6QPCK7I_PUgAdP1RChvv4fw/e8.endpoint.cdn.sctvonline.vn/nginx.s8.edge.cdn.sctvonline.vn/cdn-secure/v1/sctvonline/2/aEq1tV-QG2hcAHC2V4vIJg/1756227600/VBD1TLI/live/hls/sctv3/index.m3u8
+http://hoatv001.ddns.net/iptv/admin.php?stream=c69947207f651407a3d8fc6b559962dc&token=f1fb22aca9a86f8cd80bad1504beb103
 #EXTINF:0 tvg-id="sctv4hd"group-title="SCTV" tvg-logo="" ,SCTV4 Tổng Hợp
-https://liveh12.seenow.vn/hls/SCTV4/03.m3u8?fake=1756120861749
+http://hoatv001.ddns.net/iptv/admin.php?stream=5a5bd1f5475eefc160a0ded5a1c5402c&token=f1fb22aca9a86f8cd80bad1504beb103
 #EXTINF:-1 tvg-id="sctv6hd" group-title="SCTV" tvg-logo="https://i.ibb.co/LCFvBZh/FIM360.png", Fim 360 - SCTV6
 https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist_b5000000.m3u8?fake=1756121115671
 #EXTINF:-1 tvg-id="SCTV7hd" group-title="SCTV" tvg-logo="https://i.ibb.co/wzXcZvW/sctv7.png", SCTV7 Sân Khấu Văn Nghệ
-https://liveh12.seenow.vn/hls/SCTV7/03.m3u8?fake=1756121283210
+http://hoatv001.ddns.net/iptv/admin.php?stream=cd2159012a63ddfd55b95c49a983bca2&token=f1fb22aca9a86f8cd80bad1504beb103
 #EXTINF:-1 tvg-id="SCTV8hd" group-title="SCTV" tvg-logo="https://i.ibb.co/yqW2C5t/sctv8.png", SCTV8 VITV Kinh Tế
-https://s1.edge.cdn.sctvonline.vn/cdn-cgi/edge/v3/1756122670/X7J86gJt2FesDErzIBZmcCC74IM/e1.endpoint.cdn.sctvonline.vn/nginx.s4.edge.cdn.sctvonline.vn/cdn-secure/v1/sctvonline/2/G2z9QOjBY2TveU143lqYsA/1756227600/VBD1TLI/live/hls/sctv8/index.m3u8
+http://hoatv001.ddns.net/iptv/admin.php?stream=3bc9968b7ae2a9f56bccaaffb8766cdc&token=f1fb22aca9a86f8cd80bad1504beb103
 #EXTINF:-1 tvg-id="sctv9hd" group-title="SCTV" tvg-logo="https://img.lichphatsong.xyz/logo/sctv9hd.png", SCTV9 Phim Châu Á
-https://s3.edge.cdn.sctvonline.vn/cdn-cgi/edge/v3/1756120335/PL1ld2_dUZZqRxgBXfTCeYEdF3k/e1.endpoint.cdn.sctvonline.vn/nginx.s11.edge.cdn.sctvonline.vn/cdn-secure/v1/sctvonline/2/pCtI8RQPKv4s2FxEuWT5VA/1756227600/VBD1TLI/live/hls/sctv9/index.m3u8
-#EXTINF:-1 tvg-id="SCTV22hd" group-title="SCTV" tvg-logo="", SCTV11 Giải Trí
-https://s5.edge.cdn.sctvonline.vn/cdn-cgi/edge/v3/1756121326/bdC97Wap8-twTbCKL6tt2A-0e98/e1.endpoint.cdn.sctvonline.vn/nginx.s4.edge.cdn.sctvonline.vn/cdn-secure/v1/sctvonline/2/DyhiSwJP2DtPVuHzrzk0IQ/1756227600/VBD1TLI/live/channel/sctv11/index.m3u8
-#EXTINF:-1 tvg-id="btv5" group-title="SCTV" tvg-logo="", SCTV13 Phụ Nữ
-https://s8.edge.cdn.sctvonline.vn/cdn-cgi/edge/v3/1756121527/M1ZNBKcZpZ1Cj3lzPd8eKq3rNfM/e1.endpoint.cdn.sctvonline.vn/nginx.s9.edge.cdn.sctvonline.vn/cdn-secure/v1/sctvonline/2/zhSNNWtGMFUO72gXoVcR9w/1756227600/VBD1TLI/live/hls/sctv13/index.m3u8
+
+#EXTINF:-1 tvg-id="SCTV11hd" group-title="SCTV" tvg-logo="", SCTV11 Giải Trí
+http://hoatv001.ddns.net/iptv/admin.php?stream=b994fa97d93d4dfffb46979b1da0b3f8&token=f1fb22aca9a86f8cd80bad1504beb103
+#EXTINF:-1 tvg-id="sctv13" group-title="SCTV" tvg-logo="", SCTV13 Phụ Nữ
+http://hoatv001.ddns.net/iptv/admin.php?stream=56960f053b7faf83e86491e41d012108&token=f1fb22aca9a86f8cd80bad1504beb103
 #EXTINF:0 tvg-id="sctv12hd"group-title="SCTV" tvg-logo="https://scontent.fsgn2-11.fna.fbcdn.net/v/t39.30808-6/299019441_490944356366325_8428824759492952599_n.jpg?stp=dst-webp_e15_q70_s720x720_tt1_u&efg=eyJ1cmxnZW4iOiJ1cmxnZW5fZnJvbV91cmwifQ&_nc_cid=0&_nc_ad=z-m&_nc_rml=0&_nc_ht=scontent.fsgn2-11.fna&_nc_cat=105&_nc_ohc=7SDcOHrA5PMQ7kNvgE5dB3m&ccb=1-7&_nc_sid=5f2048&oh=00_AYA9QI1OnzVTbm1A5NaLuHSAcIbrFH9gqya4hSeWlgnZLg&oe=6654622C",SCTV12 Du Lịch Và Khám Phá
-https://s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v3/1756121367/Gj6tyV7dYDM3mQaqBxgCndCTyBo/e1.endpoint.cdn.sctvonline.vn/nginx.s13.edge.cdn.sctvonline.vn/cdn-secure/v1/sctvonline/2/O3vGhKwhLfgrqbY5cMbGAw/1756227600/VBD1TLI/live/hls/sctv12/index.m3u8
+http://hoatv001.ddns.net/iptv/admin.php?stream=980b8c8586d0815f9170d6df0307f28c&token=f1fb22aca9a86f8cd80bad1504beb103
 #EXTINF:0 tvg-id="sctv14hd"group-title="SCTV" tvg-logo="" ,SCTV14 Phim Việt
-https://liveh12.seenow.vn/hls/SCTV14/03.m3u8?fake=1756121582987
+http://hoatv001.ddns.net/iptv/admin.php?stream=e5b39d6bcbf2223d8d06544a06c36c4c&token=f1fb22aca9a86f8cd80bad1504beb103
 #EXTINF:0 tvg-id="sctv15hd"group-title="THỂ THAO" tvg-logo="" ,SCTV15 SSPORT2
 
 #EXTINF:-1 tvg-id="SCTV16hd" group-title="SCTV" tvg-logo="https://i.ibb.co/FgqbkhL/SCTV16.png", SCTV16 Phim Nước Ngoài
-https://s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v3/1756121647/kFiye3uiM4gRzez_uIGECCP61pE/e1.endpoint.cdn.sctvonline.vn/nginx.s4.edge.cdn.sctvonline.vn/cdn-secure/v1/sctvonline/2/8uTS8sVpduZ6pWs00_2dNA/1756227600/VBD1TLI/live/hls/sctv16/index.m3u8
+http://hoatv001.ddns.net/iptv/admin.php?stream=c0bca6ea7b0af4ee5dfb94a8179109f9&token=f1fb22aca9a86f8cd80bad1504beb103
 #EXTINF:0 tvg-id="sctv17hd"group-title="THỂ THAO" tvg-logo="" ,SCTV17 SSPORT
 
 #EXTINF:0 tvg-id="sctv18hd"group-title="SCTV" tvg-logo="" ,SCTV18 Thanh Thiếu Niên
-https://s13.edge.cdn.sctvonline.vn/cdn-cgi/edge/v3/1756121686/k7nBNNlFeO7i4GTxfRK2TxAPRQU/e10.endpoint.cdn.sctvonline.vn/nginx.s2.edge.cdn.sctvonline.vn/cdn-secure/v1/sctvonline/1/SeUbdX93upqAzW_Lv_ieiA/1756227600/VBD1TLI/live:forensic/sctv18/router_v1_ios_17_autogeneratedsctv.m3u8
+http://hoatv001.ddns.net/iptv/admin.php?stream=5cd67e47b8215d6ccba4ac6a652688bf&token=f1fb22aca9a86f8cd80bad1504beb103
 #EXTINF:0 tvg-id="sctv19hd"group-title="SCTV" tvg-logo="" ,SCTV19 Channel Teen
 https://s13.edge.cdn.sctvonline.vn/cdn-cgi/edge/v3/1756121737/R-tgxBlJmPzRw5cdIqkV8Xg62ZQ/e8.endpoint.cdn.sctvonline.vn/nginx.s9.edge.cdn.sctvonline.vn/cdn-secure/v1/sctvonline/2/QicAqW2n1zetIiQ_fvIuHw/1756227600/VBD1TLI/live/hls/sctv19/index.m3u8
 #EXTINF:0 tvg-id="sctv20hd"group-title="SCTV" tvg-logo="" ,SCTV20 Ca Nhạc
@@ -134,7 +134,7 @@ https://s13.edge.cdn.sctvonline.vn/cdn-cgi/edge/v3/1756121834/yUsaOzgpVVGdnkzR5v
 #EXTINF:-1 tvg-id="SCTV22hd" group-title="THỂ THAO" tvg-logo="https://i.ibb.co/PGSF422/sctv22-hd.png", SCTV22 SSPORT1
 http://hoatv001.ddns.net/iptv/admin.php?stream=1e2fcc2c97eefd239d37a7b93d800c3d&token=f1fb22aca9a86f8cd80bad1504beb103
 #EXTINF:-1 tvg-id="SCTV Phim Tổng Hợp" group-title="SCTV" tvg-logo="", SCTV Phim Tổng Hợp
-https://liveh12.seenow.vn/hls/SCTVPHIM/03.m3u8?fake=1756120947138
+http://hoatv001.ddns.net/iptv/admin.php?stream=a34ff9696c1310f62546b99ce9b7dab4&token=f1fb22aca9a86f8cd80bad1504beb103
 
 
 
