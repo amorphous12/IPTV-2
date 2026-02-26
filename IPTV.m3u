@@ -140,7 +140,7 @@ http://hoatv001.ddns.net/iptv/admin.php?stream=a34ff9696c1310f62546b99ce9b7dab4&
 
 #--*.*--INTHEBOX--*.*--#
 #EXTINF:0 tvg-id="boxmovie1" group-title="PHIM" tvg-logo="https://i.ibb.co/mqY1Sxs/box-movie-1.png",Box Movie
-https://livevlisctcdnw.seenow.vn/mean/BM1/manifest.mpd
+http://hoatv001.ddns.net/iptv/admin.php?stream=a2d690bf039c4adab0adec868df377ed&token=f1fb22aca9a86f8cd80bad1504beb103
 #EXTINF:0 tvg-id="hollywoodclassics" group-title="PHIM" tvg-logo="https://i.ibb.co/j5HcXvW/holywood.png",Hollywood Classics
 http://hoatv001.ddns.net/iptv/admin.php?stream=b26e1c8a00473057e064102aa5666f2c&token=f1fb22aca9a86f8cd80bad1504beb103
 #EXTINF:0 tvg-id="drfithd" group-title="KHOA HỌC VĂN HÓA" tvg-logo="https://i.ibb.co/chBqNVp/dr-fit.png",DR.Fit
@@ -156,7 +156,7 @@ http://hoatv001.ddns.net/iptv/admin.php?stream=9cefe8b7c24b4cb59ae7477233d7f573&
 #EXTINF:-1 tvg-id="boxhits" group-title="PHIM" tvg-logo="https://i.ibb.co/hYF1RTW/Box-Hits.png", Box Hits
 http://hoatv001.ddns.net/iptv/admin.php?stream=5c4c96b49907a93c19985a5d543005e8&token=f1fb22aca9a86f8cd80bad1504beb103
 #EXTINF:-1 tvg-id="inthebox" group-title="PHIM" tvg-logo="", In The Box
-https://livevlisctcdnw.seenow.vn/livesnv2/INTHEBOX/manifest.mpd
+http://hoatv001.ddns.net/iptv/admin.php?stream=89bd5cbcdd2cfa170352731ab98b74bb&token=f1fb22aca9a86f8cd80bad1504beb103
 #EXTINF:0 tvg-id="man" group-title="QUỐC TẾ" tvg-logo="",Man
 
 
@@ -170,19 +170,19 @@ http://hoatv001.ddns.net/iptv/admin.php?stream=3b34f6bf7b60311f7ab83516318fd86d&
 https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist1080p.m3u8
 
 #EXTINF:0 tvg-id="" group-title="PHIM" tvg-logo="https://i.ibb.co/zHS0N8N/Dream-Works.png",DreamWorks
-
+http://hoatv001.ddns.net/iptv/admin.php?stream=773054aa454da429c12d13742b2415df&token=f1fb22aca9a86f8cd80bad1504beb103
 #EXTINF:0 tvg-id="AXN" group-title="PHIM" tvg-logo="https://i.ibb.co/vHCtNmb/AXN.png" ,AXN HD
 http://hoatv001.ddns.net/iptv/admin.php?stream=7764016693ae03a79a2fa2e5290e4eaf&token=f1fb22aca9a86f8cd80bad1504beb103
 #EXTINF:0 tvg-id="warnertvhd" group-title="PHIM" tvg-logo="https://i.ibb.co/88LPqCy/WB.png",Warner TV
 http://hoatv001.ddns.net/iptv/admin.php?stream=79028dd9abab1e569b0b9ffdf2b1602d&token=f1fb22aca9a86f8cd80bad1504beb103
 #EXTINF:0 group-title="PHIM" tvg-logo="https://i.ibb.co/QYVd38q/kix.png", KIX HD
 https://live.fptplay53.net/fnxhd2/kixhd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="" group-title="PHIM" tvg-logo="https://i.ibb.co/tMk0mJx/Boomerang.png",Boomerang
+#EXTINF:-1 tvg-id="" group-title="PHIM" tvg-logo="https://i.ibb.co/tMk0mJx/Boomerang.png",Cartoonito
 
-#EXTINF:-1 tvg-id="cartoonhd" group-title="PHIM" tvg-logo="https://i.ibb.co/pJcF0Ym/Cartoon-Network.png",Cartoon Network HD
-
-#EXTINF:0 tvg-id="babytvhd" group-title="KHOA HỌC VĂN HÓA" tvg-logo="https://i.ibb.co/cNQpbGr/Baby-TV.png",History HD
-https://api.wintv.me/360/9856/index.m3u8
+#EXTINF:-1 tvg-id="cartoonhd" group-title="PHIM" tvg-logo="https://i.ibb.co/pJcF0Ym/Cartoon-Network.png",Cartoon Network
+http://hoatv001.ddns.net/iptv/admin.php?stream=c97b9951686ba8392a37669e8da92d98&token=f1fb22aca9a86f8cd80bad1504beb103
+#EXTINF:0 tvg-id="historyhd" group-title="KHOA HỌC VĂN HÓA" tvg-logo="",History
+https://liveh34.vtvprime.vn/hls/HISTORY/02.m3u8
 #EXTINF:0 tvg-id="Baby TV HD" group-title="QUỐC TẾ" tvg-logo="https://i.ibb.co/KrdzC6y/CBeebies.png",Cbeebies
 
 #EXTINF:0 tvg-id="animaxhd" group-title="PHIM" tvg-logo="https://i.ibb.co/MCD31Zy/Animax.png",Animax
@@ -191,8 +191,8 @@ https://api.wintv.me/360/9856/index.m3u8
 http://hoatv001.ddns.net/iptv/admin.php?stream=53790956d5028a4edb3092ed5fea681d&token=f1fb22aca9a86f8cd80bad1504beb103
 #EXTINF:-1 tvg-id="cinemaworldhd" group-title="PHIM" tvg-logo="https://i.ibb.co/f90Rs0F/CMW.png", Cinema World
 http://hoatv001.ddns.net/iptv/admin.php?stream=9b8b8c30b4fc52ae677131e14b4f9c1a&token=f1fb22aca9a86f8cd80bad1504beb103
-#EXTINF:-1 tvg-id="davinci" tvg-logo="https://i.ibb.co/V9zPbXz/Da-Vinci.png" tvg-name="Da Vinci (HD)"  group-title="KHOA HỌC VĂN HÓA",Da Vinci HD
-
+#EXTINF:-1 tvg-id="davinci" tvg-logo="https://i.ibb.co/V9zPbXz/Da-Vinci.png" tvg-name="Da Vinci (HD)"  group-title="KHOA HỌC VĂN HÓA",Da Vinci Kids
+http://hoatv001.ddns.net/iptv/admin.php?stream=d4dd668b88dfdfb675c492c52e77064a&token=f1fb22aca9a86f8cd80bad1504beb103
 #EXTINF:-1 tvg-id="afnhd" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/99/Asian_Food_Network_logo_b%E1%BA%A3n_3.png/revision/latest/scale-to-width-down/200?cb=20250327082030&path-prefix=vi" group-title="KHOA HỌC VĂN HÓA",Asian Food Network
 https://live.fptplay53.net/fnxhd2/afchd_vhls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="tlchd" group-title="KHOA HỌC VĂN HÓA" tvg-logo="https://i.ibb.co/5hZzB2C/TLC.png" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/travelliving_1500.stream/chunks_dvr_range-${start}-10800.m3u8, TLC
@@ -210,24 +210,46 @@ http://hoatv001.ddns.net/iptv/admin.php?stream=13846ecc028cd32709bfa3b448172574&
 #EXTINF:-1 tvg-id="discoveryasiahd" group-title="KHOA HỌC VĂN HÓA" tvg-logo="https://i.ibb.co/tB64XG7/Discovery-Asia-BEARTV.png", Discovery Asia HD
 http://hoatv001.ddns.net/iptv/admin.php?stream=d902885ea15e35f3cfb38c0dfbe6b631&token=f1fb22aca9a86f8cd80bad1504beb103
 #EXTINF:0 tvg-id="outdoorhd" group-title="KHOA HỌC VĂN HÓA" tvg-logo="https://i.ibb.co/x3hpmQ9/Outdoor-Channel.png" , Outdoor Channel
-
+https://live.fptplay53.net/epzhd2/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="" group-title="QUỐC TẾ" tvg-logo="https://i.ibb.co/R9P4G9X/TV5-Monde.png", TV5MONDE
-
-#EXTINF:-1 tvg-id="bbcworldnews" group-title="QUỐC TẾ;THỜI SỰ" tvg-logo="https://i.ibb.co/j5jJptz/bbcworldnews-cc.png", BBC World News
+https://liveh12.vtvprime.vn/hls/TV5/03.m3u8
+#EXTINF:-1 tvg-id="bbcworldnews" group-title="QUỐC TẾ" tvg-logo="https://i.ibb.co/j5jJptz/bbcworldnews-cc.png", BBC World News
 
 #EXTINF:-1 tvg-id="kbsworld" group-title="QUỐC TẾ" tvg-logo="https://i.ibb.co/SNWQSqq/KBS-World.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/kbs_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", KBS World
-
+https://liveh12.vtvprime.vn/hls/KBS/03.m3u8
 #EXTINF:-1 tvg-id="abcaustralia" group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/ABC_Australia_logo.svg/1200px-ABC_Australia_logo.svg.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/australiaplus_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", ABC Australia
 
 #EXTINF:-1 tvg-id="mutv" group-title="THỂ THAO" tvg-logo="https://cdn6.aptoide.com/imgs/5/4/7/54740131b7dab27828b8cf06ccf128ed_icon.png", MUTV
 
-#EXTINF:-1 tvg-id="bbclifestyle" group-title="QUỐC TẾ;KHOA HỌC VĂN HÓA" tvg-logo="https://i.ibb.co/sWgHzfW/BBC-Lifestyle.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/bbclifestyle_2000.stream/chunks_dvr_range-${start}-${offset}.m3u8", BBC Lifestyle
+#EXTINF:-1 tvg-id="bbclifestyle" group-title="KHOA HỌC VĂN HÓA" tvg-logo="https://i.ibb.co/sWgHzfW/BBC-Lifestyle.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/bbclifestyle_2000.stream/chunks_dvr_range-${start}-${offset}.m3u8", BBC Lifestyle
+http://hoatv001.ddns.net/iptv/admin.php?stream=54ce345d7c30e34aa4e16332500697b8&token=f1fb22aca9a86f8cd80bad1504beb103
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="KHOA HỌC VĂN HÓA", BBC Earth
+http://hoatv001.ddns.net/iptv/admin.php?stream=118a224b731452828a74e3eae679fb63&token=f1fb22aca9a86f8cd80bad1504beb103
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="KHOA HỌC VĂN HÓA", DMAX
+http://hoatv001.ddns.net/iptv/admin.php?stream=21449e89f104ad58d37ff20ea6e490f0&token=f1fb22aca9a86f8cd80bad1504beb103
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="QUỐC TẾ", DW-TV
+http://hoatv001.ddns.net/iptv/admin.php?stream=b0692ed88dda73dd11b0d03183d1b93c&token=f1fb22aca9a86f8cd80bad1504beb103
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="QUỐC TẾ", France 24
+https://liveh12.vtvprime.vn/hls/FRANCE24/03.m3u8
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="KHOA HỌC VĂN HÓA", HG TV
+https://liveh34.vtvprime.vn/hls/HGTV/03.m3u8
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="QUỐC TẾ", NHK World
+https://liveh12.vtvprime.vn/hls/NHKWORLD/03.m3u8
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="THỂ THAO", SPOTV1
+http://hoatv001.ddns.net/iptv/admin.php?stream=6078bf597565b08a245d7bf71534468f&token=f1fb22aca9a86f8cd80bad1504beb103
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="THỂ THAO", SPOTV2
+http://hoatv001.ddns.net/iptv/admin.php?stream=c7f336d850fb616c33b16f61937f4472&token=f1fb22aca9a86f8cd80bad1504beb103
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="KHOA HỌC VĂN HÓA", Love Nature
+
+
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="QUỐC TẾ", CNBC
+https://liveh34.vtvprime.vn/hls/CNBC/03.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="QUỐC TẾ" tvg-logo="https://i.ibb.co/VpnQj5h/Channel-News-Asia.png",Channel News Asia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 
 #EXTINF:0 tvg-id="" group-title="THỂ THAO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Realmadrid_Television_Logo.svg/440px-Realmadrid_Television_Logo.svg.png", Real Madrid TV
-
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/67a3b45a21af380008133aa4/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=610c8f98-68e8-48e7-9cc5-5dd3fefdcab5&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=1cfb9a8a-b3e3-439e-84d4-9fa20717b0a6
 #EXTINF:0 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/a8/HGTV_2010.svg/revision/latest?cb=20211127035204&path-prefix=vi" group-title="QUỐC TẾ", HGTV
 
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="NHẠC", Vevo
