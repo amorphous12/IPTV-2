@@ -155,8 +155,7 @@ http://hoatv001.ddns.net/iptv/admin.php?stream=9cefe8b7c24b4cb59ae7477233d7f573&
 
 #EXTINF:-1 tvg-id="boxhits" group-title="PHIM" tvg-logo="https://i.ibb.co/hYF1RTW/Box-Hits.png", Box Hits
 http://hoatv001.ddns.net/iptv/admin.php?stream=5c4c96b49907a93c19985a5d543005e8&token=f1fb22aca9a86f8cd80bad1504beb103
-#EXTINF:-1 tvg-id="inthebox" group-title="PHIM" tvg-logo="", In The Box
-#KODIPROP:inputstream.adaptive.manifest_type=mpd #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b https://livevlisctcdnw.seenow.vn/livesnv2/INTHEBOX/manifest.mpd
+#EXTINF:-1 tvg-id="inthebox" group-title"PHIM" tvg-logo="https://i.ibb.co/C2yvjj1/inthebox-BEARTV.png", In The Box #EXTVLCOPT:http-user-agent="CloudTV" #KODIPROP:inputstream.adaptive.manifest_type=mpd #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b https://livevlisctcdnw.seenow.vn/livesnv2/INTHEBOX/manifest.mpd
 #EXTINF:0 tvg-id="man" group-title="QUỐC TẾ" tvg-logo="",Man
 
 
