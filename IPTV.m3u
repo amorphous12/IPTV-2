@@ -140,7 +140,7 @@ http://hoatv001.ddns.net/iptv/admin.php?stream=a34ff9696c1310f62546b99ce9b7dab4&
 
 #--*.*--INTHEBOX--*.*--#
 #EXTINF:0 tvg-id="boxmovie1" group-title="PHIM" tvg-logo="https://i.ibb.co/mqY1Sxs/box-movie-1.png",Box Movie
-http://hoatv001.ddns.net/iptv/admin.php?stream=a2d690bf039c4adab0adec868df377ed&token=f1fb22aca9a86f8cd80bad1504beb103
+http-user-agent="CloudTV" #KODIPROP:inputstream.adaptive.manifest_type=mpd #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b https://livevlisctcdnw.seenow.vn/mean/BM1/manifest.mpd
 #EXTINF:0 tvg-id="hollywoodclassics" group-title="PHIM" tvg-logo="https://i.ibb.co/j5HcXvW/holywood.png",Hollywood Classics
 http://hoatv001.ddns.net/iptv/admin.php?stream=b26e1c8a00473057e064102aa5666f2c&token=f1fb22aca9a86f8cd80bad1504beb103
 #EXTINF:0 tvg-id="drfithd" group-title="KHOA HỌC VĂN HÓA" tvg-logo="https://i.ibb.co/chBqNVp/dr-fit.png",DR.Fit
@@ -156,7 +156,7 @@ http://hoatv001.ddns.net/iptv/admin.php?stream=9cefe8b7c24b4cb59ae7477233d7f573&
 #EXTINF:-1 tvg-id="boxhits" group-title="PHIM" tvg-logo="https://i.ibb.co/hYF1RTW/Box-Hits.png", Box Hits
 http://hoatv001.ddns.net/iptv/admin.php?stream=5c4c96b49907a93c19985a5d543005e8&token=f1fb22aca9a86f8cd80bad1504beb103
 #EXTINF:-1 tvg-id="inthebox" group-title="PHIM" tvg-logo="", In The Box
-http://hoatv001.ddns.net/iptv/admin.php?stream=89bd5cbcdd2cfa170352731ab98b74bb&token=f1fb22aca9a86f8cd80bad1504beb103
+http-user-agent="CloudTV" #KODIPROP:inputstream.adaptive.manifest_type=mpd #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b https://livevlisctcdnw.seenow.vn/livesnv2/INTHEBOX/manifest.mpd
 #EXTINF:0 tvg-id="man" group-title="QUỐC TẾ" tvg-logo="",Man
 
 
