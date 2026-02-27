@@ -200,8 +200,9 @@ http://hoatv001.ddns.net/iptv/admin.php?stream=53790956d5028a4edb3092ed5fea681d&
 #EXTINF:-1 tvg-id="cinemaworldhd" group-title="PHIM" tvg-logo="https://i.ibb.co/f90Rs0F/CMW.png", Cinema World
 http://hoatv001.ddns.net/iptv/admin.php?stream=9b8b8c30b4fc52ae677131e14b4f9c1a&token=f1fb22aca9a86f8cd80bad1504beb103
 
-#EXTINF:-1 tvg-id="cinemaworld" group-title"PHIM" tvg-logo="", CinemaWorld
-#EXTVLCOPT:http-user-agent="CloudTV"
+
+#EXTINF:-1 tvg-id="cinemaworld" tvg-logo="" group-title="PHIM",CinemaWorld
+#EXTVLCOPT:http-user-agent=CloudTV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cinemaworld.smil/manifest.mpd
 
